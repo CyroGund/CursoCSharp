@@ -1,0 +1,10 @@
+C:\Users\Clarify_Bnu07\source\repos\ArquivoXML\ArquivoXML\bin\Debug\ArquivoXML.exe.config
+C:\Users\Clarify_Bnu07\source\repos\ArquivoXML\ArquivoXML\bin\Debug\ArquivoXML.exe
+C:\Users\Clarify_Bnu07\source\repos\ArquivoXML\ArquivoXML\bin\Debug\ArquivoXML.pdb
+C:\Users\Clarify_Bnu07\source\repos\ArquivoXML\ArquivoXML\obj\Debug\ArquivoXML.csprojAssemblyReference.cache
+C:\Users\Clarify_Bnu07\source\repos\ArquivoXML\ArquivoXML\obj\Debug\ArquivoXML.Form1.resources
+C:\Users\Clarify_Bnu07\source\repos\ArquivoXML\ArquivoXML\obj\Debug\ArquivoXML.Properties.Resources.resources
+C:\Users\Clarify_Bnu07\source\repos\ArquivoXML\ArquivoXML\obj\Debug\ArquivoXML.csproj.GenerateResource.cache
+C:\Users\Clarify_Bnu07\source\repos\ArquivoXML\ArquivoXML\obj\Debug\ArquivoXML.csproj.CoreCompileInputs.cache
+C:\Users\Clarify_Bnu07\source\repos\ArquivoXML\ArquivoXML\obj\Debug\ArquivoXML.exe
+C:\Users\Clarify_Bnu07\source\repos\ArquivoXML\ArquivoXML\obj\Debug\ArquivoXML.pdb
